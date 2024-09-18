@@ -4,7 +4,21 @@ Welcome to your new GitHub repository!
 # Outline
 [week 1](README.md#week-1-example-report-1)
 
-week 2, etc...
+[week 2](README.md#week-2-example-report-1)
+
+[week 3](https://github.com/Berkeley-MDes/tdf-fa24-baeuke/edit/main/README.md#example-weekly-report-3-sep-12---sep-19)
+
+---
+
+# (EXAMPLE) Weekly report 3 (Sep 12 - Sep 19)
+
+## Reflections
+
+For this week, I worked on the laser cut handle, last class it didn't really cut through, and I should have checked that before removing one piece (so that I could laser cut it again), but now at least I know how to do that properly. I'm still struggling with the Rhino and grashoper.. 
+
+## Process
+Last time, my laser-cut failed, it looked okay at the beginning:
+etc.etc.etc.
 
 ---
 
