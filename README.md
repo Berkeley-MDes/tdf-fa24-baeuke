@@ -1,7 +1,7 @@
+<a href="https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+</a>
 
-[![IMAGE ALT TEXT HERE](./assets/exampleimg.png)](https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D)
-
-https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
