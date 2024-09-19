@@ -1,5 +1,5 @@
 
-[![IMAGE ALT TEXT HERE](.assets/exampleimg.png)](https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D)
+[![IMAGE ALT TEXT HERE](./assets/exampleimg.png)](https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D)
 
 https://www.youtube.com/watch?v=HjgtwcWEyMg&pp=ygUEbG9maQ%3D%3D
 # Hello DES INV 202 Student!
